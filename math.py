@@ -6,7 +6,7 @@ def sub(x,y):
     return x-y           #on Feature 1 Branch
 #multiolication operation
 def mul(x,y):
-    pass
+    return x*y          #on Feature1 branch on remote repo
 #Devision operation       
 def div(x,y):
     pass
