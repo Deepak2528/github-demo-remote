@@ -5,8 +5,8 @@ def add(x,y):
 def sub(x,y):
     return x-y           #on Feature 1 Branch
 #multiolication operation
-def mul(x,y):
-    return x*y           #on Bug123 Branch in Local repo
+def mul(x,y)
+    return x*y          #on Feature1 branch on remote
 #Devision operation       
 def div(x,y):
     pass
