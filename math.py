@@ -9,4 +9,4 @@ def mul(x,y)
     return x*y          #on Feature1 branch on remote
 #Devision operation       
 def div(x,y):
-    pass
+    return x/y          #on Feature1 remote repo
